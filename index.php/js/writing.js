@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded',function(event){
-    var dataText = ["Midway RolePlay", "Owner", "CO-Owner", "Deve",];
+    var dataText = ["Midway RolePlay", "Owner: Crushen", "CO-Owner: UrAvgWeeb", "Developer: Tanbak",];
     
     function typeWriter(text, i, fnCallback) {
       if (i < (text.length)) {
